@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "godot": {
+      "type": "stdio",
+      "command": "/home/mide-fre/godot-mcp/build/index.js",
+      "args": [],
+      "env": {}
+    }
+  }
+}
